@@ -1,7 +1,7 @@
-#Hyperblog
+# Hyperblog
 Un log increíble para el curso de git y github de Platzi.
 
-#En este curso vemos de todo:
+# En este curso vemos de todo
 - Todos los comandos de Git.
 - El flujo de trabajo de Github.
 - El verdadero amor por las buenas prácticas.
